@@ -2,7 +2,7 @@
 
 Your Party with [Spotify](https://www.spotify.com) - without ads!
 
-[![Spotify-AdKiller](https://github.com/SecUpwN/Spotify-AdKiller/raw/master/Spotify-AdKiller.png)](https://github.com/SecUpwN/Spotify-AdKiller)
+[![Spotify-AdKiller](https://github.com/vkmanojk/Spotify-AdKiller/raw/master/Spotify-AdKiller.png)](https://github.com/vkmanojk/Spotify-AdKiller)
 
 We all love Spotify, but sometimes people (like us) want to throw a party without having to listen to interrupting ads before having bought [Spotify Premium](https://www.spotify.com/premium/). Well, with this killer project, now you can!
 
@@ -56,7 +56,7 @@ There is an [AUR Package](https://aur.archlinux.org/packages/spotify-adkiller-gi
 
 Grab the latest release of `Spotify-AdKiller`:
 
-    git clone https://github.com/SecUpwN/Spotify-AdKiller.git
+    git clone https://github.com/vkmanojk/Spotify-AdKiller.git
 
 Run the provided installer:
 
@@ -152,6 +152,6 @@ for i in $(LC_ALL=C pactl list | grep -E '(^Sink Input)|(media.name = \"Spotify\
 
 ### License
 
-Many people have contributed to make our script become what it is today (huge shout-out to the initial creator [pcworld](https://github.com/pcworld)). If you are like us and think that it is very sad when projects die, please accept that all code here is fully licensed under GPL v3+. Have a look at the full [License](https://github.com/SecUpwN/Spotify-AdKiller/blob/master/LICENSE). Contribute pull requests!
+Many people have contributed to make our script become what it is today (huge shout-out to the initial creator [pcworld](https://github.com/pcworld)). If you are like us and think that it is very sad when projects die, please accept that all code here is fully licensed under GPL v3+. Have a look at the full [License](https://github.com/vkmanojk/Spotify-AdKiller/blob/master/LICENSE). Contribute pull requests!
 
 **This product is not endorsed, certified or otherwise approved in any way by Spotify. Spotify is the registered trade mark of the Spotify Group. Use your brainz prior to formatting your HDD.**
